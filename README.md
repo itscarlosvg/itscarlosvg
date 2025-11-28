@@ -12,6 +12,6 @@
 <img src="assets/stitch-unscreen.gif" height="120" />
 <br>
     
-[![](https://img.shields.io/badge/LinkedIn-blue)](www.linkedin.com/in/carlosvispo)
+[![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/carlosvispo)
 [![](https://img.shields.io/badge/Portfolio-purple)](https://www.carlos-cv.simev.cl)
 </div>
