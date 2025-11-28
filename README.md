@@ -2,7 +2,7 @@
 <img src="assets/leviack.gif" width="25%" align="right" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BAB6F7&width=435&lines=Hi!;I'm+Carlos%2C+Full+Stack+Developer.;Welcome!" width="70%" />
 <br><br>
-<pre>
+<pre align="left">
     💼 Full Stack Developer 
     Java • JavaScript • TypeScript • Python • And more!
     💻 Angular • React • Docker • APIs • Microservices 
