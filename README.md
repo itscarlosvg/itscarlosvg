@@ -45,8 +45,6 @@
 
 ![Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/itscarlosvg?cardType=github&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=itscarlosvg&theme=radical&hide_border=true)
-
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itscarlosvg&theme=github)
 
 ---
