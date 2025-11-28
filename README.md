@@ -1,6 +1,5 @@
-# 👋 Hola, soy Carlos Vispo | Desarrollador Full Stack
-
-🚀 **Apasionado por la programación**
+# 👋 ¡Hey, qué tal! Soy Carlos Vispo
+# 💻 Desarrollador Full Stack 
 
 ---
 
