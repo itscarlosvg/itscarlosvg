@@ -1,69 +1,17 @@
-# 👋 Hola, soy Carlos Vispo | Desarrollador Full Stack
-
-🚀 **Apasionado por la programación**
-
----
-
-## 🛠️ **Tecnologías & Herramientas**
-
-### **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TAILWIND](https://img.shields.io/badge/css-gray?style=for-the-badge&logo=css&logoColor=white)
-![HTML](https://shields.io/badge/HTML-★★★★★-f06529?logo=html5&logoColor=white&labelColor=f06529)
-
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20API-v1.1-lightgrey)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-
-### **Lenguajes**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=white)
-![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
-![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
-
-### **Base de Datos & Cloud**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![MARIADB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![FIREBASE](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![HIBERNATE](https://img.shields.io/badge/-Hibernate-59666C?logo=Hibernate&logoColor=FFF)
-
-### **Otros**
-![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
-
-
----
-
-## 📊 **Estadísticas GitHub**
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=itscarlosvg&theme=radical)
-
-![Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/itscarlosvg?cardType=github&theme=radical)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itscarlosvg&theme=github)
-
----
-
-## 🏆 **Proyectos**
-
-### 🔥 [Recetas App](https://github.com/itscarlosvg/RecetasApp)
-**Stack:** React, Spring Boot, MariaDB, Java, JavaScript - **Estado:** 🟢 Terminado
-
----
-
-## 📫 **Conectemos**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosvispo/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://www.carlos-cv.simev.cl)
-
----
-
-> *"There's no place like 127.0.0.1"*
+<div align="center">
+<img src="assets/tokyoghoul.gif" width="25%" align="right" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BAB6F7&width=435&lines=Hi!;I'm+Carlos%2C+Full+Stack+Developer.;Welcome)](https://git.io/typing-svg" width="70%" />
+<br><br>
+<pre>
+    💼 Full Stack Developer • Java • JavaScript • TypeScript • Python • Node.js • HTML • Tailwind • And more!
+    💻 Angular • React • Docker • APIs • Microservices 
+    🎮 Gym • Music • Anime • Videogames 
+    📍 There's no place like 127.0.0.1
+</pre>
+<br><br>
+<img src="assets/stitch-unscreen.gif" height="40" />
+<br><br><br>
+    
+[![](https://img.shields.io/badge/linkedin-0a66c2)](www.linkedin.com/in/carlosvispo)
+[![](https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white)](https://www.carlos-cv.simev.cl)
+</div>
