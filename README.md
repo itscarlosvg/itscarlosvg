@@ -1,6 +1,6 @@
 <div align="center"> 
 <!-- <img src="assets/leviack.gif" width="25%" align="right" />-->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BAB6F7&width=435&lines=Hi!;I'm+Carlos%2C+Full+Stack+Developer.;Welcome!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BAB6F7&center=true&width=435&lines=Hi!;I'm+Carlos%2C+Full+Stack+Developer.;Welcome!" />
 <br><br>
 <pre>
     💼 Full Stack Developer 
