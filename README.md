@@ -9,10 +9,10 @@
     🎮 Gym • Music • Anime • Videogames 
     📍 There's no place like 127.0.0.1
 </pre>
-<br><br>
+<br>
 <img src="assets/stitch-unscreen.gif" height="120" />
 <br><br><br>
     
-[![](https://img.shields.io/badge/linkedin-0a66c2)](www.linkedin.com/in/carlosvispo)
-[![](https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white)](https://www.carlos-cv.simev.cl)
+[![](https://img.shields.io/badge/LinkedIn-blue)](www.linkedin.com/in/carlosvispo)
+[![](https://img.shields.io/badge/Portfolio-purple)](https://www.carlos-cv.simev.cl)
 </div>
