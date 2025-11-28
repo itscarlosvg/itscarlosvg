@@ -1,6 +1,6 @@
 <div align="center">
-<img src="assets/aot.gif" width="30%" align="right" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BAB6F7&width=435&lines=Hi!;I'm+Carlos%2C+Full+Stack+Developer.;Welcome!)](https://git.io/typing-svg" width="65%" />
+<img src="assets/aot.gif" width="25%" align="right" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BAB6F7&width=435&lines=Hi!;I'm+Carlos%2C+Full+Stack+Developer.;Welcome!)](https://git.io/typing-svg" width="70%" />
 <br><br>
 <pre>
     💼 Full Stack Developer 
