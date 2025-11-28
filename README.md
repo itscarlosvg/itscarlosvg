@@ -1,6 +1,24 @@
-# 👋 Hola, soy Carlos Vispo | Desarrollador Full Stack
-
-🚀 **Apasionado por la programación**
+<<<<<<< HEAD
+<div align="center">
+<img src="assets/tokyoghoul.gif" width="25%" align="right" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BAB6F7&width=435&lines=Hi!;I'm+Carlos%2C+Full+Stack+Developer.;Welcome)](https://git.io/typing-svg" width="70%" />
+<br><br>
+<pre>
+    💼 Full Stack Developer • Java • JavaScript • TypeScript • Python • Node.js • HTML • Tailwind • And more!
+    💻 Angular • React • Docker • APIs • Microservices 
+    🎮 Gym • Music • Anime • Videogames 
+    📍 There's no place like 127.0.0.1
+</pre>
+<br><br>
+<img src="assets/stitch-unscreen.gif" height="40" />
+<br><br><br>
+    
+[![](https://img.shields.io/badge/linkedin-0a66c2)](www.linkedin.com/in/carlosvispo)
+[![](https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white)](https://www.carlos-cv.simev.cl)
+</div>
+=======
+# 👋 ¡Hey, qué tal! Soy Carlos Vispo
+# 💻 Desarrollador Full Stack 
 
 ---
 
@@ -9,7 +27,7 @@
 ### **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TAILWIND](https://img.shields.io/badge/css-gray?style=for-the-badge&logo=css&logoColor=white)
+![TAILWIND CSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 ![HTML](https://shields.io/badge/HTML-★★★★★-f06529?logo=html5&logoColor=white&labelColor=f06529)
 
 
@@ -44,8 +62,6 @@
 
 ## 📊 **Estadísticas GitHub**
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=itscarlosvg&theme=radical)
-
 ![Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/itscarlosvg?cardType=github&theme=radical)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itscarlosvg&theme=github)
@@ -67,3 +83,4 @@
 ---
 
 > *"There's no place like 127.0.0.1"*
+>>>>>>> 1171c751d58ff792d14f001ef8e57714471923b2
