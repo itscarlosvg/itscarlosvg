@@ -1,9 +1,9 @@
 <div align="center"> 
-<p align="right">
+<p align="right" width = "25%">
     <img height="180rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itscarlosvg&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-    <img height="180rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itscarlosvgi&layout=compact&langs_count=8&theme=dark"/>
+    <img height="180rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itscarlosvg&layout=compact&langs_count=8&theme=dark"/>
 </p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BAB6F7&center=true&width=435&lines=Hi!;I'm+Carlos%2C+Full+Stack+Developer.;Welcome!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BAB6F7&center=true&width=435&lines=Hi!;I'm+Carlos%2C+Full+Stack+Developer.;Welcome!" width = "70%"/>
 <br><br>
 <pre>
     💼 Full Stack Developer 
