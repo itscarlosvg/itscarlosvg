@@ -1,6 +1,6 @@
 <div align="center">
-<img src="assets/tokyoghoul.gif" width="25%" align="right" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BAB6F7&width=435&lines=Hi!;I'm+Carlos%2C+Full+Stack+Developer.;Welcome!)](https://git.io/typing-svg" width="70%" />
+<img src="assets/aot.gif" width="30%" align="right" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BAB6F7&width=435&lines=Hi!;I'm+Carlos%2C+Full+Stack+Developer.;Welcome!)](https://git.io/typing-svg" width="65%" />
 <br><br>
 <pre>
     💼 Full Stack Developer 
@@ -9,9 +9,8 @@
     🎮 Gym • Music • Anime • Videogames 
     📍 There's no place like 127.0.0.1
 </pre>
-<br>
 <img src="assets/stitch-unscreen.gif" height="120" />
-<br><br><br>
+<br>
     
 [![](https://img.shields.io/badge/LinkedIn-blue)](www.linkedin.com/in/carlosvispo)
 [![](https://img.shields.io/badge/Portfolio-purple)](https://www.carlos-cv.simev.cl)
