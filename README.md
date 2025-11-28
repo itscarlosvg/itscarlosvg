@@ -14,8 +14,8 @@
       </pre>
     </td>
     <td width="30%" align="right">
-      <img height="120rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itscarlosvg&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/><br>
-      <img height="120rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itscarlosvg&layout=compact&langs_count=8&theme=dark"/>
+      <img height="200rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itscarlosvg&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/><br>
+      <img height="200rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itscarlosvg&layout=compact&langs_count=8&theme=dark"/>
     </td>
   </tr>
 </table>
