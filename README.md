@@ -15,6 +15,9 @@
 [![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/carlosvispo)
 [![](https://img.shields.io/badge/Portfolio-purple)](https://www.carlos-cv.simev.cl)
 </div>
+
+---
+
 <p align="center">
     <img height="180rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mizzymi&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
     <img height="180rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mizzymi&layout=compact&langs_count=8&theme=dark"/>
