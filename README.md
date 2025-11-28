@@ -4,8 +4,8 @@
 <br><br>
 <pre>
     💼 Full Stack Developer 
-    Java • JavaScript • TypeScript • Python • And more!
-    💻 Angular • React • Docker • APIs • Microservices 
+    💻 Java • JavaScript • TypeScript • Python • 
+    Angular • React • Docker • APIs • And more! 
     🎮 Gym • Music • Anime • Videogames 
     📍 There's no place like 127.0.0.1
 </pre>
