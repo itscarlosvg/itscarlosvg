@@ -19,6 +19,6 @@
 ---
 
 <p align="center">
-    <img height="180rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mizzymi&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-    <img height="180rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mizzymi&layout=compact&langs_count=8&theme=dark"/>
+    <img height="180rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itscarlosvg&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+    <img height="180rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itscarlosvg&layout=compact&langs_count=8&theme=dark"/>
 </p>
